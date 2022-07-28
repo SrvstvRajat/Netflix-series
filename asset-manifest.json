@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netflix-series/static/css/main.f30c818c.css",
+    "main.js": "/Netflix-series/static/js/main.7092b2bc.js",
+    "static/js/787.0904c1f0.chunk.js": "/Netflix-series/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/Netflix-series/index.html",
+    "main.f30c818c.css.map": "/Netflix-series/static/css/main.f30c818c.css.map",
+    "main.7092b2bc.js.map": "/Netflix-series/static/js/main.7092b2bc.js.map",
+    "787.0904c1f0.chunk.js.map": "/Netflix-series/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30c818c.css",
+    "static/js/main.7092b2bc.js"
+  ]
+}
